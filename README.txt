@@ -42,3 +42,7 @@ Import datetime package - get day part - find correct extension for day: st, nd,
 
 Question 9. Write a program that reads in a text file and outputs every second line. The program should take the filename from an argument on the command line.
 Import sys package to work with the program arguments - then open file. Similar to Question 6. - print every second line beginning by printing line 1 and resetting checker and repeat.
+
+
+Question 10. Write a program that displays a plot of the functions x, x2 and 2x in the range [0, 4].
+I didn't get to complete this question - but I indend on adding solution later.
